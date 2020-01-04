@@ -1,5 +1,5 @@
 //
-//  ViewController.swift
+//  HomeViewController.swift
 //  CollectionViewSample
 //
 //  Created by koyo on 2020/01/03.
@@ -8,13 +8,12 @@
 
 import UIKit
 
-class ViewController: UIViewController {
+class PhotosController: UICollectionViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        // Do any additional setup after loading the view.
+        
+        
     }
 
-
 }
-
